@@ -1,0 +1,15 @@
+{
+  "id": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails",
+  "artifact": {
+    "fileName": "NuclearOption-Simple-Missile-Bomb-Tracker-and-Tac-Map-Trails.dll",
+    "version": "1.0.0",
+    "category": "release",
+    "type": "plugin",
+    "gameVersion": "0.34",
+    "downloadUrl": null,
+    "hash": "sha256:1f7f9a340921309ea0682cc14e84abc9ab057ca774a6132a9f4a01355503561b",
+    "extends": null,
+    "dependencies": [],
+    "incompatibilities": []
+  }
+}
