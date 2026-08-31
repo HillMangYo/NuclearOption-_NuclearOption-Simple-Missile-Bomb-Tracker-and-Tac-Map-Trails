@@ -11,6 +11,7 @@
     <DebugType>none</DebugType>
     <DebugSymbols>false</DebugSymbols>
     <Deterministic>true</Deterministic>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
     <NoWarn>$(NoWarn);MSB3277</NoWarn>
     <NuclearOptionRoot Condition="'$(NuclearOptionRoot)' == '' and Exists('..\BepInEx\core\BepInEx.dll')">..</NuclearOptionRoot>
