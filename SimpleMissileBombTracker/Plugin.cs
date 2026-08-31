@@ -11,7 +11,7 @@ public sealed class SimpleMissileBombTrackerPlugin : BaseUnityPlugin
 {
     public const string PluginGuid = "nuclearoption.simplemissilebombtrackerandtacmaptrails";
     public const string PluginName = "Simple Missile & Bomb Tracker + Tac Map Trails";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "1.0.1";
 
     internal static ManualLogSource Log;
 
